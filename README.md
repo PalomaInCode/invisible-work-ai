@@ -154,7 +154,7 @@ invisible-work-ai/
 
 ## Privacidade e limitações
 
-Este projeto é um MVP educacional com dados **inteiramente sintéticos**, não utiliza dados de clientes reais da Stefanini, SAP ou iFood. A versão demo não tem autenticação nem armazenamento persistente e não deve receber dados confidenciais. A função AI Insights envia métricas agregadas para o provedor configurado, quando uma chave for fornecida. Hospede apenas com controles adequados se for expandi-lo para usuários reais.
+Este projeto é um MVP educacional com dados **inteiramente sintéticos**, não utiliza dados de clientes reais. A versão demo não tem autenticação nem armazenamento persistente e não deve receber dados confidenciais. A função AI Insights envia métricas agregadas para o provedor configurado, quando uma chave for fornecida. Hospede apenas com controles adequados se for expandi-lo para usuários reais.
 
 ## Roadmap (não implementado)
 
