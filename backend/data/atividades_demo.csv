@@ -1,0 +1,341 @@
+case_id,processo,atividade,data,duracao_min,retrabalho,execucao,status
+CASE-0001,Atendimento operacional,Classificar solicitação,2026-10-19,10,Não,Manual,Concluído
+CASE-0002,Relatórios de gestão,Consolidar relatório,2026-10-20,5,Não,Manual,Concluído
+CASE-0003,Atendimento operacional,Escalonar pendência,2026-11-06,17,Não,Manual,Concluído
+CASE-0004,Aprovação de solicitações,Analisar solicitação,2026-10-30,11,Não,Manual,Concluído
+CASE-0005,Relatórios de gestão,Enviar relatório,2026-10-15,15,Não,Manual,Concluído
+CASE-0006,Aprovação de solicitações,Analisar solicitação,2026-10-29,7,Não,Manual,Concluído
+CASE-0007,Atendimento operacional,Responder chamado,2026-11-11,14,Não,Manual,Concluído
+CASE-0008,Atendimento operacional,Classificar solicitação,2026-11-11,12,Não,Manual,Concluído
+CASE-0009,Cadastro de fornecedores,Validar cadastro,2026-11-01,5,Sim,Manual,Concluído
+CASE-0010,Atendimento operacional,Classificar solicitação,2026-10-17,17,Não,Manual,Concluído
+CASE-0011,Relatórios de gestão,Extrair dados,2026-11-06,17,Não,Automático,Concluído
+CASE-0012,Cadastro de fornecedores,Validar cadastro,2026-10-17,15,Sim,Manual,Concluído
+CASE-0013,Aprovação de solicitações,Solicitar complemento,2026-11-08,19,Não,Automático,Concluído
+CASE-0014,Atendimento operacional,Escalonar pendência,2026-10-27,17,Não,Manual,Concluído
+CASE-0015,Atendimento operacional,Escalonar pendência,2026-11-03,8,Não,Manual,Concluído
+CASE-0016,Aprovação de solicitações,Solicitar complemento,2026-10-16,12,Não,Manual,Concluído
+CASE-0017,Atendimento operacional,Responder chamado,2026-10-17,5,Não,Manual,Concluído
+CASE-0018,Conciliação de pedidos,Atualizar planilha,2026-10-15,6,Não,Manual,Concluído
+CASE-0019,Relatórios de gestão,Enviar relatório,2026-11-10,4,Não,Manual,Concluído
+CASE-0020,Aprovação de solicitações,Solicitar complemento,2026-10-21,23,Sim,Manual,Concluído
+CASE-0021,Cadastro de fornecedores,Validar cadastro,2026-10-27,8,Não,Manual,Concluído
+CASE-0022,Cadastro de fornecedores,Conferir documento,2026-11-07,6,Não,Manual,Concluído
+CASE-0023,Conciliação de pedidos,Corrigir divergência,2026-10-17,11,Sim,Manual,Concluído
+CASE-0024,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-15,19,Sim,Manual,Concluído
+CASE-0025,Cadastro de fornecedores,Solicitar ajuste,2026-11-08,7,Sim,Manual,Concluído
+CASE-0026,Conciliação de pedidos,Corrigir divergência,2026-11-05,15,Sim,Manual,Concluído
+CASE-0027,Atendimento operacional,Classificar solicitação,2026-10-16,9,Não,Automático,Concluído
+CASE-0028,Cadastro de fornecedores,Validar cadastro,2026-10-20,17,Não,Manual,Concluído
+CASE-0029,Conciliação de pedidos,Corrigir divergência,2026-10-31,20,Sim,Manual,Concluído
+CASE-0030,Cadastro de fornecedores,Conferir documento,2026-11-08,19,Não,Manual,Concluído
+CASE-0031,Relatórios de gestão,Enviar relatório,2026-10-30,13,Não,Manual,Concluído
+CASE-0032,Relatórios de gestão,Enviar relatório,2026-10-16,16,Não,Manual,Concluído
+CASE-0033,Aprovação de solicitações,Solicitar complemento,2026-10-22,16,Não,Manual,Concluído
+CASE-0034,Atendimento operacional,Classificar solicitação,2026-11-06,17,Não,Manual,Concluído
+CASE-0035,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-31,13,Sim,Manual,Concluído
+CASE-0036,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-03,5,Não,Manual,Concluído
+CASE-0037,Relatórios de gestão,Enviar relatório,2026-11-06,6,Não,Manual,Concluído
+CASE-0038,Conciliação de pedidos,Corrigir divergência,2026-11-08,22,Sim,Manual,Concluído
+CASE-0039,Atendimento operacional,Classificar solicitação,2026-11-08,17,Não,Manual,Concluído
+CASE-0040,Conciliação de pedidos,Corrigir divergência,2026-10-23,13,Não,Manual,Concluído
+CASE-0041,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-26,11,Não,Manual,Concluído
+CASE-0042,Aprovação de solicitações,Aprovar registro,2026-10-18,5,Não,Manual,Concluído
+CASE-0043,Cadastro de fornecedores,Validar cadastro,2026-10-20,18,Não,Manual,Concluído
+CASE-0044,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-09,11,Não,Manual,Concluído
+CASE-0045,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,12,Não,Manual,Concluído
+CASE-0046,Cadastro de fornecedores,Validar cadastro,2026-10-28,15,Não,Manual,Concluído
+CASE-0047,Cadastro de fornecedores,Validar cadastro,2026-10-19,7,Não,Manual,Concluído
+CASE-0048,Cadastro de fornecedores,Validar cadastro,2026-10-16,6,Não,Manual,Concluído
+CASE-0049,Aprovação de solicitações,Analisar solicitação,2026-10-26,15,Não,Manual,Concluído
+CASE-0050,Atendimento operacional,Escalonar pendência,2026-11-08,4,Não,Automático,Concluído
+CASE-0051,Cadastro de fornecedores,Validar cadastro,2026-10-26,4,Não,Manual,Concluído
+CASE-0052,Aprovação de solicitações,Analisar solicitação,2026-11-02,8,Não,Automático,Concluído
+CASE-0053,Cadastro de fornecedores,Validar cadastro,2026-10-15,6,Não,Manual,Concluído
+CASE-0054,Conciliação de pedidos,Corrigir divergência,2026-11-02,26,Não,Manual,Concluído
+CASE-0055,Cadastro de fornecedores,Conferir documento,2026-10-24,16,Não,Manual,Concluído
+CASE-0056,Cadastro de fornecedores,Validar cadastro,2026-10-23,16,Não,Manual,Concluído
+CASE-0057,Conciliação de pedidos,Corrigir divergência,2026-11-02,15,Não,Manual,Concluído
+CASE-0058,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-26,19,Não,Manual,Concluído
+CASE-0059,Relatórios de gestão,Consolidar relatório,2026-10-24,14,Não,Manual,Concluído
+CASE-0060,Relatórios de gestão,Extrair dados,2026-11-10,19,Não,Manual,Concluído
+CASE-0061,Atendimento operacional,Classificar solicitação,2026-10-26,16,Não,Manual,Concluído
+CASE-0062,Atendimento operacional,Responder chamado,2026-11-02,5,Não,Manual,Concluído
+CASE-0063,Conciliação de pedidos,Corrigir divergência,2026-10-21,18,Não,Manual,Concluído
+CASE-0064,Conciliação de pedidos,Corrigir divergência,2026-10-30,15,Não,Automático,Concluído
+CASE-0065,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-31,19,Sim,Manual,Concluído
+CASE-0066,Conciliação de pedidos,Corrigir divergência,2026-11-10,12,Não,Automático,Concluído
+CASE-0067,Cadastro de fornecedores,Conferir documento,2026-10-28,14,Não,Manual,Concluído
+CASE-0068,Atendimento operacional,Classificar solicitação,2026-10-26,6,Sim,Manual,Concluído
+CASE-0069,Atendimento operacional,Classificar solicitação,2026-11-04,20,Sim,Manual,Concluído
+CASE-0070,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-29,18,Não,Manual,Concluído
+CASE-0071,Relatórios de gestão,Extrair dados,2026-10-30,9,Não,Manual,Concluído
+CASE-0072,Atendimento operacional,Responder chamado,2026-10-16,7,Não,Manual,Concluído
+CASE-0073,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,16,Sim,Manual,Concluído
+CASE-0074,Cadastro de fornecedores,Solicitar ajuste,2026-11-05,11,Não,Manual,Concluído
+CASE-0075,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,7,Não,Manual,Concluído
+CASE-0076,Relatórios de gestão,Enviar relatório,2026-10-19,4,Não,Manual,Concluído
+CASE-0077,Atendimento operacional,Classificar solicitação,2026-11-11,14,Não,Manual,Concluído
+CASE-0078,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-29,5,Não,Manual,Concluído
+CASE-0079,Aprovação de solicitações,Solicitar complemento,2026-10-24,18,Não,Manual,Concluído
+CASE-0080,Conciliação de pedidos,Corrigir divergência,2026-11-02,14,Não,Manual,Concluído
+CASE-0081,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-09,17,Sim,Manual,Concluído
+CASE-0082,Relatórios de gestão,Extrair dados,2026-11-03,16,Não,Manual,Concluído
+CASE-0083,Conciliação de pedidos,Atualizar planilha,2026-10-29,15,Sim,Manual,Concluído
+CASE-0084,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-08,7,Não,Manual,Concluído
+CASE-0085,Cadastro de fornecedores,Conferir documento,2026-10-16,11,Não,Manual,Concluído
+CASE-0086,Atendimento operacional,Responder chamado,2026-11-04,6,Não,Manual,Concluído
+CASE-0087,Cadastro de fornecedores,Validar cadastro,2026-11-07,8,Não,Manual,Concluído
+CASE-0088,Atendimento operacional,Responder chamado,2026-10-25,6,Não,Automático,Concluído
+CASE-0089,Aprovação de solicitações,Aprovar registro,2026-10-21,16,Não,Manual,Concluído
+CASE-0090,Relatórios de gestão,Enviar relatório,2026-10-31,8,Não,Manual,Concluído
+CASE-0091,Cadastro de fornecedores,Validar cadastro,2026-10-17,16,Não,Automático,Concluído
+CASE-0092,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-01,20,Não,Automático,Concluído
+CASE-0093,Relatórios de gestão,Extrair dados,2026-10-25,14,Sim,Manual,Concluído
+CASE-0094,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-15,9,Sim,Manual,Concluído
+CASE-0095,Aprovação de solicitações,Analisar solicitação,2026-11-10,16,Não,Manual,Concluído
+CASE-0096,Cadastro de fornecedores,Validar cadastro,2026-11-07,16,Não,Manual,Concluído
+CASE-0097,Relatórios de gestão,Consolidar relatório,2026-11-05,6,Não,Manual,Concluído
+CASE-0098,Atendimento operacional,Classificar solicitação,2026-11-06,15,Não,Manual,Concluído
+CASE-0099,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-16,7,Sim,Manual,Concluído
+CASE-0100,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-30,5,Não,Automático,Concluído
+CASE-0101,Cadastro de fornecedores,Conferir documento,2026-11-06,10,Não,Manual,Concluído
+CASE-0102,Conciliação de pedidos,Atualizar planilha,2026-11-02,18,Não,Manual,Concluído
+CASE-0103,Atendimento operacional,Responder chamado,2026-11-09,9,Não,Manual,Concluído
+CASE-0104,Aprovação de solicitações,Analisar solicitação,2026-10-28,8,Não,Automático,Concluído
+CASE-0105,Cadastro de fornecedores,Solicitar ajuste,2026-10-28,20,Não,Automático,Concluído
+CASE-0106,Conciliação de pedidos,Corrigir divergência,2026-10-20,27,Não,Manual,Concluído
+CASE-0107,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-19,18,Sim,Manual,Concluído
+CASE-0108,Conciliação de pedidos,Corrigir divergência,2026-11-10,21,Não,Manual,Concluído
+CASE-0109,Relatórios de gestão,Extrair dados,2026-11-01,13,Sim,Manual,Concluído
+CASE-0110,Cadastro de fornecedores,Validar cadastro,2026-10-19,5,Não,Manual,Concluído
+CASE-0111,Cadastro de fornecedores,Validar cadastro,2026-11-09,11,Não,Manual,Concluído
+CASE-0112,Cadastro de fornecedores,Validar cadastro,2026-10-27,15,Não,Manual,Concluído
+CASE-0113,Aprovação de solicitações,Analisar solicitação,2026-10-20,4,Não,Automático,Concluído
+CASE-0114,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-27,12,Sim,Manual,Concluído
+CASE-0115,Cadastro de fornecedores,Validar cadastro,2026-10-29,13,Não,Automático,Concluído
+CASE-0116,Atendimento operacional,Classificar solicitação,2026-10-27,14,Sim,Manual,Concluído
+CASE-0117,Cadastro de fornecedores,Solicitar ajuste,2026-10-29,15,Não,Manual,Concluído
+CASE-0118,Atendimento operacional,Classificar solicitação,2026-10-27,19,Não,Manual,Concluído
+CASE-0119,Conciliação de pedidos,Corrigir divergência,2026-10-29,27,Não,Automático,Concluído
+CASE-0120,Relatórios de gestão,Extrair dados,2026-11-04,16,Não,Manual,Concluído
+CASE-0121,Cadastro de fornecedores,Conferir documento,2026-10-27,13,Não,Manual,Concluído
+CASE-0122,Conciliação de pedidos,Atualizar planilha,2026-11-04,11,Sim,Automático,Concluído
+CASE-0123,Aprovação de solicitações,Solicitar complemento,2026-11-03,23,Não,Manual,Concluído
+CASE-0124,Conciliação de pedidos,Atualizar planilha,2026-10-29,13,Não,Manual,Concluído
+CASE-0125,Relatórios de gestão,Extrair dados,2026-10-19,20,Não,Manual,Concluído
+CASE-0126,Conciliação de pedidos,Corrigir divergência,2026-10-17,23,Não,Manual,Concluído
+CASE-0127,Cadastro de fornecedores,Conferir documento,2026-10-28,18,Não,Automático,Concluído
+CASE-0128,Atendimento operacional,Responder chamado,2026-10-26,9,Não,Manual,Concluído
+CASE-0129,Atendimento operacional,Escalonar pendência,2026-11-06,15,Sim,Manual,Concluído
+CASE-0130,Relatórios de gestão,Consolidar relatório,2026-11-09,12,Sim,Manual,Concluído
+CASE-0131,Atendimento operacional,Responder chamado,2026-11-09,8,Não,Manual,Concluído
+CASE-0132,Relatórios de gestão,Consolidar relatório,2026-11-09,8,Não,Manual,Concluído
+CASE-0133,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-08,5,Não,Manual,Concluído
+CASE-0134,Cadastro de fornecedores,Validar cadastro,2026-11-10,8,Não,Manual,Concluído
+CASE-0135,Atendimento operacional,Classificar solicitação,2026-11-08,6,Não,Manual,Concluído
+CASE-0136,Conciliação de pedidos,Corrigir divergência,2026-10-17,20,Não,Automático,Concluído
+CASE-0137,Relatórios de gestão,Extrair dados,2026-11-04,11,Não,Automático,Concluído
+CASE-0138,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-26,10,Sim,Manual,Concluído
+CASE-0139,Relatórios de gestão,Extrair dados,2026-11-04,8,Não,Automático,Concluído
+CASE-0140,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-16,13,Sim,Manual,Concluído
+CASE-0141,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-18,16,Não,Manual,Concluído
+CASE-0142,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-19,18,Não,Manual,Concluído
+CASE-0143,Cadastro de fornecedores,Validar cadastro,2026-11-03,8,Não,Manual,Concluído
+CASE-0144,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-01,4,Não,Manual,Concluído
+CASE-0145,Atendimento operacional,Classificar solicitação,2026-10-30,20,Não,Manual,Concluído
+CASE-0146,Atendimento operacional,Responder chamado,2026-10-26,4,Não,Manual,Concluído
+CASE-0147,Aprovação de solicitações,Analisar solicitação,2026-10-29,8,Não,Manual,Concluído
+CASE-0148,Relatórios de gestão,Extrair dados,2026-10-30,13,Sim,Manual,Concluído
+CASE-0149,Atendimento operacional,Classificar solicitação,2026-10-20,14,Não,Manual,Concluído
+CASE-0150,Atendimento operacional,Escalonar pendência,2026-10-21,9,Não,Manual,Concluído
+CASE-0151,Aprovação de solicitações,Analisar solicitação,2026-10-30,16,Não,Automático,Concluído
+CASE-0152,Conciliação de pedidos,Atualizar planilha,2026-11-04,20,Não,Manual,Concluído
+CASE-0153,Relatórios de gestão,Extrair dados,2026-11-06,19,Não,Manual,Concluído
+CASE-0154,Aprovação de solicitações,Analisar solicitação,2026-11-07,11,Não,Manual,Concluído
+CASE-0155,Atendimento operacional,Classificar solicitação,2026-10-15,11,Não,Manual,Concluído
+CASE-0156,Cadastro de fornecedores,Solicitar ajuste,2026-10-29,13,Não,Manual,Concluído
+CASE-0157,Conciliação de pedidos,Atualizar planilha,2026-10-29,10,Não,Automático,Concluído
+CASE-0158,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-19,6,Sim,Manual,Concluído
+CASE-0159,Cadastro de fornecedores,Validar cadastro,2026-11-08,12,Não,Manual,Concluído
+CASE-0160,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-20,17,Não,Manual,Concluído
+CASE-0161,Conciliação de pedidos,Corrigir divergência,2026-10-30,20,Não,Manual,Concluído
+CASE-0162,Aprovação de solicitações,Analisar solicitação,2026-10-31,13,Não,Manual,Concluído
+CASE-0163,Atendimento operacional,Responder chamado,2026-11-01,12,Não,Manual,Concluído
+CASE-0164,Relatórios de gestão,Extrair dados,2026-10-27,5,Não,Manual,Concluído
+CASE-0165,Conciliação de pedidos,Corrigir divergência,2026-10-31,22,Não,Manual,Concluído
+CASE-0166,Relatórios de gestão,Consolidar relatório,2026-10-29,12,Não,Manual,Concluído
+CASE-0167,Relatórios de gestão,Enviar relatório,2026-10-19,18,Não,Manual,Concluído
+CASE-0168,Atendimento operacional,Classificar solicitação,2026-10-21,17,Não,Manual,Concluído
+CASE-0169,Atendimento operacional,Classificar solicitação,2026-10-18,18,Não,Manual,Concluído
+CASE-0170,Atendimento operacional,Classificar solicitação,2026-10-17,19,Não,Manual,Concluído
+CASE-0171,Cadastro de fornecedores,Conferir documento,2026-10-28,12,Não,Manual,Concluído
+CASE-0172,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-11,15,Não,Manual,Concluído
+CASE-0173,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-15,5,Sim,Manual,Concluído
+CASE-0174,Relatórios de gestão,Enviar relatório,2026-10-28,18,Não,Manual,Concluído
+CASE-0175,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-01,15,Não,Manual,Concluído
+CASE-0176,Atendimento operacional,Classificar solicitação,2026-10-18,7,Sim,Manual,Concluído
+CASE-0177,Cadastro de fornecedores,Validar cadastro,2026-10-24,17,Não,Manual,Concluído
+CASE-0178,Cadastro de fornecedores,Conferir documento,2026-10-19,17,Não,Manual,Concluído
+CASE-0179,Aprovação de solicitações,Analisar solicitação,2026-10-15,10,Não,Manual,Concluído
+CASE-0180,Cadastro de fornecedores,Solicitar ajuste,2026-11-02,12,Não,Automático,Concluído
+CASE-0181,Atendimento operacional,Classificar solicitação,2026-10-18,5,Não,Manual,Concluído
+CASE-0182,Relatórios de gestão,Extrair dados,2026-11-08,4,Não,Manual,Concluído
+CASE-0183,Atendimento operacional,Escalonar pendência,2026-10-20,19,Não,Automático,Concluído
+CASE-0184,Aprovação de solicitações,Solicitar complemento,2026-10-25,11,Não,Automático,Concluído
+CASE-0185,Cadastro de fornecedores,Conferir documento,2026-10-27,9,Sim,Manual,Concluído
+CASE-0186,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-05,8,Sim,Manual,Concluído
+CASE-0187,Atendimento operacional,Classificar solicitação,2026-10-21,8,Não,Manual,Concluído
+CASE-0188,Conciliação de pedidos,Corrigir divergência,2026-10-26,27,Não,Manual,Concluído
+CASE-0189,Atendimento operacional,Classificar solicitação,2026-10-16,5,Não,Manual,Concluído
+CASE-0190,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-08,13,Não,Manual,Concluído
+CASE-0191,Relatórios de gestão,Enviar relatório,2026-10-15,14,Não,Manual,Concluído
+CASE-0192,Relatórios de gestão,Consolidar relatório,2026-11-01,10,Não,Manual,Concluído
+CASE-0193,Relatórios de gestão,Extrair dados,2026-11-03,14,Não,Manual,Concluído
+CASE-0194,Atendimento operacional,Classificar solicitação,2026-11-04,6,Não,Manual,Concluído
+CASE-0195,Cadastro de fornecedores,Validar cadastro,2026-11-08,20,Não,Automático,Concluído
+CASE-0196,Relatórios de gestão,Consolidar relatório,2026-11-05,17,Não,Manual,Concluído
+CASE-0197,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-31,19,Sim,Manual,Concluído
+CASE-0198,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-01,8,Não,Manual,Concluído
+CASE-0199,Cadastro de fornecedores,Validar cadastro,2026-11-08,5,Não,Automático,Concluído
+CASE-0200,Relatórios de gestão,Consolidar relatório,2026-10-28,10,Não,Automático,Concluído
+CASE-0201,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-16,8,Não,Manual,Concluído
+CASE-0202,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-21,9,Não,Manual,Concluído
+CASE-0203,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-26,12,Não,Manual,Concluído
+CASE-0204,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,13,Sim,Manual,Concluído
+CASE-0205,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-05,18,Sim,Manual,Concluído
+CASE-0206,Cadastro de fornecedores,Conferir documento,2026-10-21,18,Não,Manual,Concluído
+CASE-0207,Relatórios de gestão,Extrair dados,2026-11-03,9,Não,Manual,Concluído
+CASE-0208,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-22,18,Sim,Manual,Concluído
+CASE-0209,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-24,10,Não,Automático,Concluído
+CASE-0210,Cadastro de fornecedores,Conferir documento,2026-10-17,17,Não,Manual,Concluído
+CASE-0211,Cadastro de fornecedores,Conferir documento,2026-10-18,11,Não,Manual,Concluído
+CASE-0212,Relatórios de gestão,Extrair dados,2026-10-30,15,Não,Automático,Concluído
+CASE-0213,Conciliação de pedidos,Corrigir divergência,2026-11-01,19,Não,Manual,Concluído
+CASE-0214,Conciliação de pedidos,Corrigir divergência,2026-10-31,18,Não,Manual,Concluído
+CASE-0215,Cadastro de fornecedores,Solicitar ajuste,2026-11-10,14,Não,Manual,Concluído
+CASE-0216,Conciliação de pedidos,Corrigir divergência,2026-10-22,13,Não,Manual,Concluído
+CASE-0217,Relatórios de gestão,Enviar relatório,2026-10-21,12,Não,Manual,Concluído
+CASE-0218,Cadastro de fornecedores,Conferir documento,2026-10-19,9,Não,Manual,Concluído
+CASE-0219,Relatórios de gestão,Extrair dados,2026-10-18,19,Não,Manual,Concluído
+CASE-0220,Conciliação de pedidos,Corrigir divergência,2026-10-25,26,Sim,Manual,Concluído
+CASE-0221,Relatórios de gestão,Consolidar relatório,2026-11-08,12,Não,Manual,Concluído
+CASE-0222,Atendimento operacional,Responder chamado,2026-10-19,8,Não,Automático,Concluído
+CASE-0223,Aprovação de solicitações,Solicitar complemento,2026-10-20,16,Não,Manual,Concluído
+CASE-0224,Aprovação de solicitações,Analisar solicitação,2026-11-07,5,Não,Manual,Concluído
+CASE-0225,Relatórios de gestão,Extrair dados,2026-11-02,13,Não,Automático,Concluído
+CASE-0226,Cadastro de fornecedores,Conferir documento,2026-10-28,19,Não,Manual,Concluído
+CASE-0227,Atendimento operacional,Escalonar pendência,2026-11-06,4,Não,Manual,Concluído
+CASE-0228,Cadastro de fornecedores,Validar cadastro,2026-10-18,10,Sim,Manual,Concluído
+CASE-0229,Atendimento operacional,Escalonar pendência,2026-10-29,11,Não,Manual,Concluído
+CASE-0230,Atendimento operacional,Classificar solicitação,2026-10-26,12,Não,Manual,Concluído
+CASE-0231,Aprovação de solicitações,Solicitar complemento,2026-10-17,26,Não,Manual,Concluído
+CASE-0232,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-08,10,Sim,Manual,Concluído
+CASE-0233,Relatórios de gestão,Extrair dados,2026-10-31,13,Não,Manual,Concluído
+CASE-0234,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-01,17,Não,Automático,Concluído
+CASE-0235,Conciliação de pedidos,Corrigir divergência,2026-10-26,17,Não,Automático,Concluído
+CASE-0236,Aprovação de solicitações,Solicitar complemento,2026-10-19,22,Não,Manual,Concluído
+CASE-0237,Cadastro de fornecedores,Conferir documento,2026-10-28,12,Não,Manual,Concluído
+CASE-0238,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-31,14,Não,Manual,Concluído
+CASE-0239,Atendimento operacional,Responder chamado,2026-10-22,6,Não,Automático,Concluído
+CASE-0240,Relatórios de gestão,Extrair dados,2026-10-25,8,Não,Manual,Concluído
+CASE-0241,Aprovação de solicitações,Solicitar complemento,2026-10-29,14,Não,Manual,Concluído
+CASE-0242,Cadastro de fornecedores,Conferir documento,2026-10-17,14,Não,Manual,Concluído
+CASE-0243,Conciliação de pedidos,Corrigir divergência,2026-10-23,23,Não,Automático,Concluído
+CASE-0244,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-27,15,Sim,Manual,Concluído
+CASE-0245,Atendimento operacional,Escalonar pendência,2026-10-24,11,Não,Automático,Concluído
+CASE-0246,Atendimento operacional,Classificar solicitação,2026-10-22,14,Não,Automático,Concluído
+CASE-0247,Relatórios de gestão,Enviar relatório,2026-11-05,7,Não,Automático,Concluído
+CASE-0248,Conciliação de pedidos,Corrigir divergência,2026-10-28,24,Não,Manual,Concluído
+CASE-0249,Atendimento operacional,Escalonar pendência,2026-10-20,16,Não,Manual,Concluído
+CASE-0250,Aprovação de solicitações,Aprovar registro,2026-10-28,7,Não,Manual,Concluído
+CASE-0251,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-24,12,Não,Automático,Concluído
+CASE-0252,Relatórios de gestão,Extrair dados,2026-10-26,11,Não,Manual,Concluído
+CASE-0253,Relatórios de gestão,Extrair dados,2026-10-25,10,Não,Manual,Concluído
+CASE-0254,Conciliação de pedidos,Corrigir divergência,2026-10-15,18,Sim,Manual,Concluído
+CASE-0255,Atendimento operacional,Responder chamado,2026-10-27,19,Não,Manual,Concluído
+CASE-0256,Cadastro de fornecedores,Validar cadastro,2026-10-27,20,Não,Automático,Concluído
+CASE-0257,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-23,11,Não,Manual,Concluído
+CASE-0258,Conciliação de pedidos,Atualizar planilha,2026-11-02,10,Sim,Manual,Concluído
+CASE-0259,Aprovação de solicitações,Aprovar registro,2026-10-19,12,Não,Manual,Concluído
+CASE-0260,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-19,20,Não,Manual,Concluído
+CASE-0261,Conciliação de pedidos,Atualizar planilha,2026-11-08,17,Sim,Manual,Concluído
+CASE-0262,Conciliação de pedidos,Corrigir divergência,2026-10-25,26,Sim,Manual,Concluído
+CASE-0263,Atendimento operacional,Classificar solicitação,2026-10-30,4,Sim,Manual,Concluído
+CASE-0264,Atendimento operacional,Responder chamado,2026-11-01,7,Não,Manual,Concluído
+CASE-0265,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-08,18,Não,Manual,Concluído
+CASE-0266,Conciliação de pedidos,Corrigir divergência,2026-11-06,22,Não,Manual,Concluído
+CASE-0267,Aprovação de solicitações,Aprovar registro,2026-11-09,19,Não,Manual,Concluído
+CASE-0268,Cadastro de fornecedores,Validar cadastro,2026-10-15,7,Não,Manual,Concluído
+CASE-0269,Cadastro de fornecedores,Validar cadastro,2026-10-29,11,Não,Manual,Concluído
+CASE-0270,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-16,5,Não,Automático,Concluído
+CASE-0271,Conciliação de pedidos,Atualizar planilha,2026-11-06,12,Não,Automático,Concluído
+CASE-0272,Atendimento operacional,Classificar solicitação,2026-10-20,13,Não,Manual,Concluído
+CASE-0273,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,20,Não,Manual,Concluído
+CASE-0274,Atendimento operacional,Classificar solicitação,2026-11-04,20,Não,Manual,Concluído
+CASE-0275,Conciliação de pedidos,Atualizar planilha,2026-10-25,17,Sim,Manual,Concluído
+CASE-0276,Atendimento operacional,Responder chamado,2026-10-20,8,Não,Automático,Concluído
+CASE-0277,Aprovação de solicitações,Analisar solicitação,2026-11-06,11,Não,Manual,Concluído
+CASE-0278,Aprovação de solicitações,Solicitar complemento,2026-10-25,23,Não,Manual,Concluído
+CASE-0279,Atendimento operacional,Responder chamado,2026-11-02,5,Não,Manual,Concluído
+CASE-0280,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-30,11,Não,Manual,Concluído
+CASE-0281,Conciliação de pedidos,Corrigir divergência,2026-10-31,23,Não,Automático,Concluído
+CASE-0282,Cadastro de fornecedores,Conferir documento,2026-11-07,4,Não,Manual,Concluído
+CASE-0283,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-19,10,Não,Manual,Concluído
+CASE-0284,Aprovação de solicitações,Analisar solicitação,2026-11-03,12,Não,Manual,Concluído
+CASE-0285,Cadastro de fornecedores,Conferir documento,2026-11-11,5,Não,Manual,Concluído
+CASE-0286,Conciliação de pedidos,Atualizar planilha,2026-10-16,15,Sim,Automático,Concluído
+CASE-0287,Conciliação de pedidos,Corrigir divergência,2026-10-15,11,Não,Automático,Concluído
+CASE-0288,Conciliação de pedidos,Corrigir divergência,2026-10-20,14,Sim,Manual,Concluído
+CASE-0289,Atendimento operacional,Responder chamado,2026-11-08,10,Não,Manual,Concluído
+CASE-0290,Aprovação de solicitações,Analisar solicitação,2026-11-08,14,Sim,Manual,Concluído
+CASE-0291,Cadastro de fornecedores,Conferir documento,2026-10-18,7,Não,Manual,Concluído
+CASE-0292,Atendimento operacional,Classificar solicitação,2026-11-08,5,Não,Manual,Concluído
+CASE-0293,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-02,20,Sim,Manual,Concluído
+CASE-0294,Relatórios de gestão,Extrair dados,2026-11-07,5,Não,Manual,Concluído
+CASE-0295,Conciliação de pedidos,Corrigir divergência,2026-11-10,27,Não,Manual,Concluído
+CASE-0296,Atendimento operacional,Classificar solicitação,2026-10-25,8,Sim,Manual,Concluído
+CASE-0297,Relatórios de gestão,Enviar relatório,2026-11-06,4,Não,Manual,Concluído
+CASE-0298,Conciliação de pedidos,Atualizar planilha,2026-11-01,19,Sim,Manual,Concluído
+CASE-0299,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-23,20,Sim,Manual,Concluído
+CASE-0300,Atendimento operacional,Responder chamado,2026-10-18,17,Não,Manual,Concluído
+CASE-0301,Cadastro de fornecedores,Validar cadastro,2026-10-30,11,Não,Manual,Concluído
+CASE-0302,Relatórios de gestão,Extrair dados,2026-10-29,10,Não,Manual,Concluído
+CASE-0303,Atendimento operacional,Responder chamado,2026-11-06,20,Não,Manual,Concluído
+CASE-0304,Cadastro de fornecedores,Solicitar ajuste,2026-11-10,20,Não,Automático,Concluído
+CASE-0305,Cadastro de fornecedores,Validar cadastro,2026-11-09,18,Não,Manual,Concluído
+CASE-0306,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-06,19,Não,Manual,Concluído
+CASE-0307,Atendimento operacional,Classificar solicitação,2026-11-07,4,Não,Manual,Concluído
+CASE-0308,Conciliação de pedidos,Atualizar planilha,2026-10-21,7,Não,Manual,Concluído
+CASE-0309,Cadastro de fornecedores,Solicitar ajuste,2026-11-06,19,Não,Manual,Concluído
+CASE-0310,Atendimento operacional,Classificar solicitação,2026-10-25,6,Sim,Manual,Concluído
+CASE-0311,Conciliação de pedidos,Atualizar planilha,2026-11-06,11,Sim,Manual,Concluído
+CASE-0312,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-26,8,Não,Automático,Concluído
+CASE-0313,Relatórios de gestão,Enviar relatório,2026-10-18,18,Não,Automático,Concluído
+CASE-0314,Atendimento operacional,Classificar solicitação,2026-10-19,15,Não,Manual,Concluído
+CASE-0315,Cadastro de fornecedores,Validar cadastro,2026-10-29,7,Não,Manual,Concluído
+CASE-0316,Relatórios de gestão,Consolidar relatório,2026-10-18,5,Sim,Manual,Concluído
+CASE-0317,Atendimento operacional,Responder chamado,2026-11-09,16,Não,Manual,Concluído
+CASE-0318,Cadastro de fornecedores,Validar cadastro,2026-10-22,16,Não,Manual,Concluído
+CASE-0319,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-23,17,Não,Manual,Concluído
+CASE-0320,Cadastro de fornecedores,Conferir documento,2026-11-05,20,Não,Manual,Concluído
+CASE-0321,Relatórios de gestão,Extrair dados,2026-10-26,13,Não,Manual,Concluído
+CASE-0322,Cadastro de fornecedores,Validar cadastro,2026-10-24,13,Não,Manual,Concluído
+CASE-0323,Cadastro de fornecedores,Validar cadastro,2026-10-20,5,Não,Manual,Concluído
+CASE-0324,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-15,8,Sim,Manual,Concluído
+CASE-0325,Conciliação de pedidos,Corrigir divergência,2026-10-19,16,Sim,Manual,Concluído
+CASE-0326,Aprovação de solicitações,Analisar solicitação,2026-11-03,14,Não,Automático,Concluído
+CASE-0327,Conciliação de pedidos,Atualizar planilha,2026-10-28,7,Sim,Manual,Concluído
+CASE-0328,Conciliação de pedidos,Atualizar planilha,2026-10-31,4,Não,Manual,Concluído
+CASE-0329,Conciliação de pedidos,Conferir pedido x pagamento,2026-10-29,15,Não,Manual,Concluído
+CASE-0330,Relatórios de gestão,Enviar relatório,2026-11-06,11,Não,Manual,Concluído
+CASE-0331,Cadastro de fornecedores,Validar cadastro,2026-11-08,20,Sim,Manual,Concluído
+CASE-0332,Relatórios de gestão,Extrair dados,2026-11-03,12,Não,Automático,Concluído
+CASE-0333,Cadastro de fornecedores,Validar cadastro,2026-10-27,18,Não,Manual,Concluído
+CASE-0334,Cadastro de fornecedores,Validar cadastro,2026-10-27,7,Sim,Manual,Concluído
+CASE-0335,Atendimento operacional,Classificar solicitação,2026-10-25,5,Não,Manual,Concluído
+CASE-0336,Conciliação de pedidos,Conferir pedido x pagamento,2026-11-05,4,Não,Manual,Concluído
+CASE-0337,Conciliação de pedidos,Atualizar planilha,2026-11-08,12,Não,Automático,Concluído
+CASE-0338,Atendimento operacional,Escalonar pendência,2026-11-11,16,Não,Manual,Concluído
+CASE-0339,Cadastro de fornecedores,Validar cadastro,2026-10-19,17,Não,Automático,Concluído
+CASE-0340,Cadastro de fornecedores,Validar cadastro,2026-10-19,9,Não,Manual,Concluído
